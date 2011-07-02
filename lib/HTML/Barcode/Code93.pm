@@ -113,7 +113,7 @@ Mark A. Stratman, C<< <stratman@gmail.com> >>
 
 =head1 SOURCE REPOSITORY
 
-L<http://github.com/mstratman/HTML-Barcode>
+L<http://github.com/mstratman/HTML-Barcode-Code93>
 
 =head1 SEE ALSO
 
