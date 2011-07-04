@@ -3,7 +3,7 @@ use Any::Moose;
 extends 'HTML::Barcode::1D';
 use Barcode::Code93;
 
-our $VERSION = '0.09';
+our $VERSION = '0.10';
 
 has '_code93' => (
     is      => 'ro',

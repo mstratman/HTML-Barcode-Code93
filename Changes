@@ -1,5 +1,8 @@
 Revision history for HTML-Barcode-Code93
 
+0.10    Mon Jul  4 01:09:20 CDT 2011
+        - Move author tests to xt to avoid failed tests.
+
 0.09    Sat Jul  2 13:36:27 EDT 2011
         - Broke off into its own distribution from HTML::Barcode
 
