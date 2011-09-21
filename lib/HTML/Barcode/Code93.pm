@@ -26,7 +26,7 @@ HTML::Barcode::Code93 - Generate HTML representations of Code 93 barcodes
 
 =head1 DESCRIPTION
 
-This class allows you easily create HTML representations of Code 93 barcodes.
+This class allows you to easily create HTML representations of Code 93 barcodes.
 
 =begin html
 
