@@ -1,5 +1,9 @@
 Revision history for HTML-Barcode-Code93
 
+0.12    Thu Jun 21 08:36:54 CDT 2012
+        - Use Module::Install::Repository because metacpan doesn't
+          display the repository correctly as set by GithubMeta.
+
 0.11    Thu Jun 21 08:15:39 CDT 2012
         - Do not auto_include(), and do not include Test::More
 
