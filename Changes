@@ -1,5 +1,8 @@
 Revision history for HTML-Barcode-Code93
 
+0.11    Thu Jun 21 08:15:39 CDT 2012
+        - Do not auto_include(), and do not include Test::More
+
 0.10    Mon Jul  4 01:09:20 CDT 2011
         - Move author tests to xt to avoid failed tests.
 

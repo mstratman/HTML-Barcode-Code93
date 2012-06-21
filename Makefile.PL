@@ -12,6 +12,5 @@ author_tests 'xt';
 
 test_requires 'Test::More';
 githubmeta;
-auto_include;
 auto_install;
 WriteAll;
