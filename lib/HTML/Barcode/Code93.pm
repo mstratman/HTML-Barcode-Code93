@@ -1,5 +1,5 @@
 package HTML::Barcode::Code93;
-use Any::Moose;
+use Moo;
 extends 'HTML::Barcode::1D';
 use Barcode::Code93;
 
@@ -139,5 +139,4 @@ See http://dev.perl.org/licenses/ for more information.
 
 =cut
 
-no Any::Moose;
 1; # End of HTML::Barcode
