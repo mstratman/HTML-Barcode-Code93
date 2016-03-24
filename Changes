@@ -1,5 +1,8 @@
 Revision history for HTML-Barcode-Code93
 
+0.13    Thu Mar 24 15:03:44 CDT 2016
+        - Switched from Any::Moose to Moo
+
 0.12    Thu Jun 21 08:36:54 CDT 2012
         - Use Module::Install::Repository because metacpan doesn't
           display the repository correctly as set by GithubMeta.
