@@ -4,7 +4,7 @@ license 'perl';
 all_from 'lib/HTML/Barcode/Code93.pm';
 
 requires 'HTML::Barcode'   => '0.09';
-requires 'Any::Moose'      => '0.15';
+requires 'Moo';
 requires 'Barcode::Code93' => '0.02';
 
 tests 't/*.t';
