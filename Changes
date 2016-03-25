@@ -1,5 +1,8 @@
 Revision history for HTML-Barcode-Code93
 
+0.14    Fri Mar 25 10:04:54 CDT 2016
+        - Distribution tweaks: Fixed RT #108947
+
 0.13    Thu Mar 24 15:03:44 CDT 2016
         - Switched from Any::Moose to Moo
 

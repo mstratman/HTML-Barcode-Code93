@@ -3,7 +3,7 @@ use Moo;
 extends 'HTML::Barcode::1D';
 use Barcode::Code93;
 
-our $VERSION = '0.13';
+our $VERSION = '0.14';
 
 has '_code93' => (
     is      => 'ro',
